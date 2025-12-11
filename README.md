@@ -89,8 +89,7 @@ All hyperparameters except the regularisation strategy are held constant to isol
 
 # How to Run the Code
 1. Clone the repository
-git clone 
-cd <repo-name>
+git clone https://github.com/Amokh12/Amokh-Machine-Learning-assignment-.git
 
 2. Install dependencies
 
